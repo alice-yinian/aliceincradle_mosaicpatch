@@ -1,9 +1,11 @@
 <div align="center">
   <img src="https://nanamehacha.dev/wp-content/uploads/2023/11/favicon.png" alt="Logo" width="80" height="80">
-  <h1> Alice In Cradle Mosaic Patch <br><s>诺艾儿不需要马赛克！</s></h1>
+  <h1> Alice In Cradle Mosaic Patch <br><>诺艾儿不需要马赛克！</></h1>
 </div>
 
 ## 艾言艾语
+
+wdea
 
 本项目通过~~白嫖~~Github Actions来修改游戏内自带的`Assembly-CSharp.dll`来满足~~我~~诺艾儿不想要马赛克的愿望
 
